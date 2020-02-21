@@ -1,5 +1,4 @@
 import axios from 'axios';
-import "core-js/stable";
 
 const url = 'https://us-central1-paysly-7e11b.cloudfunctions.net';
 

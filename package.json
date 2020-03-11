@@ -18,6 +18,7 @@
   },
   "browserslist": "> 0.25%, not dead",
   "dependencies": {
+    "@stripe/stripe-js": "^1.0.3",
     "axios": "^0.19.0",
     "core-js": "^3.6.4"
   },

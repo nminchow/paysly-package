@@ -1,6 +1,6 @@
 {
   "name": "paysly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "toolset to accept payments online via paysly",
   "license": "CC-BY-ND-4.0",
   "keywords": [
